@@ -37,7 +37,7 @@ The rotation direction and duration are randomly selected, allowing the robot to
 
 ## State Machine
 
-![State Machine](images/state-machine.png)
+![State Machine](images/image1.png)
 
 The controller is composed of four states:
 
