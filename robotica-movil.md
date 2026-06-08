@@ -18,7 +18,9 @@ Implementation of a Virtual Force Field (VFF) navigation algorithm combining att
 - [Project Page](projects/mobile-robotics/obstacle-avoidance/)
 
 ### Global Navigation
-- [Open Practice](robotica-movil/global-navigation/_posts/2025-11-12-global-navigation.md)
+Implementation of a Gradient Path Planning (GPP) navigation system using attractive and repulsive fields for autonomous path planning.
+
+- [Project Page](projects/mobile-robotics/global-navigation/)
 
 ### Laser Mapping
 - [Open Practice](robotica-movil/laser-mapping/_posts/2025-12-10-laser-mapping.md)
