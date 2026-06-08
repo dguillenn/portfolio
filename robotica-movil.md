@@ -28,7 +28,9 @@ Autonomous exploration and occupancy grid mapping using frontier-based explorati
 - [Project Page](projects/mobile-robotics/laser-mapping/)
 
 ### Marker Visual Localization
-- [Open Practice](robotica-movil/marker-visual-localization/_posts/2025-12-28-marker-visual-localization.md)
+Vision-based robot localization using AprilTags, PnP pose estimation, coordinate frame transformations, and odometry fusion.
+
+- [Project Page](projects/mobile-robotics/marker-visual-localization/)
 
 ---
 
