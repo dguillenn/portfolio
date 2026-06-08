@@ -15,7 +15,7 @@ Vision-based line following using image processing and adaptive PID control.
 ### Obstacle Avoidance
 Implementation of a Virtual Force Field (VFF) navigation algorithm combining attractive and repulsive forces for autonomous obstacle avoidance.
 
-- [Project Page](obstacle-avoidance/)
+- [Project Page](projects/mobile-robotics/obstacle-avoidance/)
 
 ### Global Navigation
 - [Open Practice](robotica-movil/global-navigation/_posts/2025-11-12-global-navigation.md)
