@@ -3,7 +3,9 @@
 ## Practices
 
 ### Basic Vacuum Cleaner
-- [Open Practice](robotica-movil/basic-vacuum-cleaner/_posts/2025-09-28-basic-vacuum-cleaner.md)
+Low-cost autonomous vacuum cleaner based on a finite-state machine and bumper collision detection.
+
+- [Project Page](projects/mobile-robotics/basic-vacuum-cleaner/)
 
 ### Follow Line
 - [Open Practice](robotica-movil/follow-line/_posts/2025-10-18-follow-line.md)
