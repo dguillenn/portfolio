@@ -1,12 +1,25 @@
-# Robótica Móvil
+# Mobile Robotics
 
-Prácticas realizadas durante la asignatura de Robótica Móvil.
+## Practices
 
-## Prácticas
+### P1 - Basic Vacuum Cleaner
+- [Open Practice](robotica-movil/p1-vacuum-cleaner.md)
 
-- Introducción a ROS
-- Navegación Autónoma
-- Seguimiento de Línea
-- Localización y Mapeo
+### Follow Line
+- [Open Practice](robotica-movil/follow-line.md)
 
-[← Volver al inicio](README.md)
+### Obstacle Avoidance
+- [Open Practice](robotica-movil/obstacle-avoidance.md)
+
+### Global Navigation
+- [Open Practice](robotica-movil/global-navigation.md)
+
+### Laser Mapping
+- [Open Practice](robotica-movil/laser-mapping.md)
+
+### Marker Visual Localization
+- [Open Practice](robotica-movil/marker-visual-loc.md)
+
+---
+
+[⬅ Back to Main Page](README.md)
