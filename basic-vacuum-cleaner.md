@@ -1,1 +1,0 @@
-#basic-vacuum-cleaner.md
