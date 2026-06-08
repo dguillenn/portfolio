@@ -23,7 +23,9 @@ Implementation of a Gradient Path Planning (GPP) navigation system using attract
 - [Project Page](projects/mobile-robotics/global-navigation/)
 
 ### Laser Mapping
-- [Open Practice](robotica-movil/laser-mapping/_posts/2025-12-10-laser-mapping.md)
+Autonomous exploration and occupancy grid mapping using frontier-based exploration and probabilistic laser mapping.
+
+- [Project Page](projects/mobile-robotics/laser-mapping/)
 
 ### Marker Visual Localization
 - [Open Practice](robotica-movil/marker-visual-localization/_posts/2025-12-28-marker-visual-localization.md)
