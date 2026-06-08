@@ -3,7 +3,7 @@
 ## Practices
 
 ### Basic Vacuum Cleaner
-- [Open Practice](robotica-movil/p1-vacuum-cleaner.md)
+- [Open Practice](robotica-movil/basic-vacuum-cleaner.md)
 
 ### Follow Line
 - [Open Practice](robotica-movil/follow-line.md)
