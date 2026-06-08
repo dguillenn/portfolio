@@ -1,11 +1,25 @@
-# Robótica de Servicios
+# Service Robotics
 
-Prácticas realizadas durante la asignatura.
+## Practices
 
-## Prácticas
+### Localized Vacuum Cleaner
+- [Open Practice](robotica-servicios/localized-vacuum-cleaner.md)
 
-- Arquitectura del Robot
-- Detección de Personas
-- Planificación de Tareas
+### Rescue People
+- [Open Practice](robotica-servicios/rescue-people.md)
 
-[← Volver al inicio](README.md)
+### Autoparking
+- [Open Practice](robotica-servicios/autoparking.md)
+
+### Amazon Warehouse
+- [Open Practice](robotica-servicios/amazon-warehouse.md)
+
+### Laser Mapping
+- [Open Practice](robotica-servicios/laser-mapping.md)
+
+### Marker Visual Localization
+- [Open Practice](robotica-servicios/marker-visual-loc.md)
+
+---
+
+[⬅ Back to Main Page](README.md)
