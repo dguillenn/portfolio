@@ -8,7 +8,9 @@ Low-cost autonomous vacuum cleaner based on a finite-state machine and bumper co
 - [Project Page](projects/mobile-robotics/basic-vacuum-cleaner/)
 
 ### Follow Line
-- [Open Practice](robotica-movil/follow-line/_posts/2025-10-18-follow-line.md)
+Vision-based line following using image processing and adaptive PID control.
+
+- [Project Page](projects/mobile-robotics/follow-line/)
 
 ### Obstacle Avoidance
 - [Open Practice](robotica-movil/obstacle-avoidance/_posts/2025-10-24-obstacle-avoidance.md)
