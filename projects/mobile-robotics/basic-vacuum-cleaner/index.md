@@ -82,7 +82,7 @@ The robot successfully performs autonomous cleaning using a simple reactive stra
 
 ### Demonstration Video
 
-[Watch the demonstration on YouTube](https://www.youtube.com/watch?v=TU_VIDEO)
+[Watch the demonstration on YouTube](https://www.youtube.com/watch?v=[TU_VIDEO](https://youtu.be/2-ewwnZNa9E))
 
 ## Conclusions
 
