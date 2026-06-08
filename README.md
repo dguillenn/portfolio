@@ -1,6 +1,9 @@
-# Daniel Guillén
+# Daniel Guillén Badiola
 
-Bienvenido a mi portfolio técnico.
+## Robotics Portfolio
 
-- [Robótica Móvil](robotica-movil.md)
-- [Robótica de Servicios](robotica-servicios.md)
+### Mobile Robotics
+- [Mobile Robotics Practices](robotica-movil.md)
+
+### Service Robotics
+- [Service Robotics Practices](robotica-servicios.md)
