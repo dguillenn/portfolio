@@ -153,23 +153,23 @@ The vehicle successfully completed all tested circuits while maintaining stable 
 
 #### Simple Circuit
 
-[YouTube Video](YOUTUBE_LINK_SIMPLE)
+[Blogger Video](https://youtu.be/k-15ee7Rgf0)
 
 #### Fastest Simple Circuit Version
 
-[YouTube Video](YOUTUBE_LINK_FAST)
+[Blogger Video](https://youtu.be/HVHLOhvLfzE)
 
 #### Montreal Circuit
 
-[YouTube Video](YOUTUBE_LINK_MONTREAL)
+[Blogger Video](https://youtu.be/B6laYt0O0s4)
 
 #### Montmeló Circuit
 
-[YouTube Video](YOUTUBE_LINK_MONTMELO)
+[Blogger Video](https://youtu.be/qjQI6gEyWXk)
 
 #### Nürburgring Circuit
 
-[YouTube Video](YOUTUBE_LINK_NURBURGRING)
+[Blogger Video](https://youtu.be/JUV3ZLuaqe4)
 
 ## Conclusions
 
