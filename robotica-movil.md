@@ -2,7 +2,7 @@
 
 ## Practices
 
-### P1 - Basic Vacuum Cleaner
+### Basic Vacuum Cleaner
 - [Open Practice](robotica-movil/p1-vacuum-cleaner.md)
 
 ### Follow Line
